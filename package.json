@@ -1,6 +1,6 @@
 {
   "name": "eaglerx-enhanced-server",
-  "version": "1.0.0",
+  "version": "1.8.8",
   "description": "Enhanced EaglercraftX 1.8.8 NodeJS WebSocket Server",
   "main": "server.js",
   "scripts": {
