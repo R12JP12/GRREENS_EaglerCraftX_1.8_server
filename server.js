@@ -1,5 +1,5 @@
 const express = require("express");
-const { WebSocketServer } = require("ws");
+const { WebSocketServer } = require("wss");
 const fs = require("fs");
 
 const config = JSON.parse(fs.readFileSync("config.json"));
